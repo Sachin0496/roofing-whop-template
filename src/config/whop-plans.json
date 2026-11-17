@@ -1,0 +1,20 @@
+{
+  "sandbox": {
+    "accountId": "biz_zgh7DXtFlJ84y1",
+    "productId": "prod_0CF1C1QD25KO7",
+    "plans": {
+      "inspection": "plan_G57a8Dm3bJopW",
+      "deposit": "plan_yoDQfZQ4WVfia",
+      "flatRate": "plan_G4XY4xAHx38DJ"
+    }
+  },
+  "production": {
+    "accountId": "",
+    "productId": "",
+    "plans": {
+      "inspection": "",
+      "deposit": "",
+      "flatRate": ""
+    }
+  }
+}
